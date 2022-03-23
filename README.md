@@ -6,10 +6,10 @@ This is my password generator project, where you will be able to see how it was 
 
 The user must to include at least one of the following password criteria:
 
-* lowercase 
-* uppercase 
-* numeric 
-* special characters
+* Lowercase 
+* Uppercase 
+* Numeric 
+* Special characters
 
 And finally the password is generated and displayed in the viewport based on the parameters that user selected before.
 
@@ -18,3 +18,5 @@ And finally the password is generated and displayed in the viewport based on the
 ![Password.generator](Assets/03-javascript-homework-demo.png)
 
 ## Link to deploy application
+
+https://jorgecdl96.github.io/passwordGenerator/
